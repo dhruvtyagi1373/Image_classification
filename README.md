@@ -6,7 +6,7 @@
 2. conda activate catdog
 3. pip install -r requirements.txt
 4. python app.py
-5. open in browser: http://localhost:8080/
+5. open in browser: http://127.0.0.1:5000
 
 
 
